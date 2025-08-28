@@ -13,7 +13,7 @@ Uma calculadora simples de **linha de comando (CLI)** desenvolvida em **Python**
 - Adição ➕  
 - Subtração ➖  
 - Multiplicação ✖️  
-- Divisão ➗ (com tratamento de divisão por zero)  
+- Divisão ➗ 
 
 ---
 
