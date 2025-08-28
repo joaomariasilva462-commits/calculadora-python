@@ -1,3 +1,5 @@
+cd calculadora-python
+
 def calcular(a, op, b):
     if op == "+":
         return a + b
@@ -32,3 +34,4 @@ while True:
         print("Entrada inválida! Use o formato: número operador número")
     except Exception as e:
         print("Erro:", e)
+
